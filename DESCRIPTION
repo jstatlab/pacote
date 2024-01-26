@@ -10,3 +10,5 @@ Description: This package is an introduction to creating your own R package.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/jstatlab/pacote
+BugReports: https://github.com/jstatlab/pacote/issues
