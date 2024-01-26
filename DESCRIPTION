@@ -1,0 +1,12 @@
+Package: pacote
+Type: Package
+Title: This Package Demonstrates How to Create a R Package
+Version: 0.1.0
+Author: Nome Sobrenome
+Maintainer: The package maintainer <nomesobrenome@gmail.com>
+Description: This package is an introduction to creating your own R package. 
+    With this step-by-step guide, you'll be able to create your custom 
+    R package in no time.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
