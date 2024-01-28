@@ -1,0 +1,20 @@
+#' Motor Trend Car Road Tests
+#'
+#' The data was extracted from the 1974 Motor Trend US Magazine, and compromises
+#' fuel consumption and 10 aspects of automobile and performance for 32 automobiles
+#' (1973-74 models).
+#'
+#' @format A data frame with 32 rows and 11 (numeric) variables.
+#' \describe{
+#'   \item{mpg}{dbl Miles/(US) gallon}
+#'   \item{cyl}{dbl Number of cylinders}
+#'   \item{disp}{dbl Displacement}
+#'   \item{hp}{dbl Gross horsepower}
+#'   \item{drat}{dbl Rear axle ratio}
+#'   \item{wt}{dbl Weight}
+#' }
+#' @note Henderson and Velleman (1981) comment in a footnote to Table1: 'Hocking
+#' original transcriber's noncrucial coding of the Mazda's rotary engine as a straight...
+#'
+#' @source \url{https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/mtcars}
+"mtcars"
