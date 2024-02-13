@@ -4,6 +4,8 @@
 # pacote
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/jstatlab/pacote/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jstatlab/pacote/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 O objetivo do pacote é construir um pacote básico.
