@@ -12,10 +12,10 @@ dividir(x, y)
 \item{y}{Um numero}
 }
 \value{
-A divisao de `x` e `y`
+A divisao de \code{x} e \code{y}
 }
 \description{
-`dividir()` retorna a divisão entre `x` e `y`.
+\code{dividir()} retorna a divisão entre \code{x} e \code{y}.
 }
 \examples{
 # Divide 50/2 = 25

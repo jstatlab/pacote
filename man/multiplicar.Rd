@@ -12,10 +12,10 @@ multiplicar(x, y)
 \item{y}{Um numero}
 }
 \value{
-A produto entre `x` e `y`
+A produto entre \code{x} e \code{y}
 }
 \description{
-`multiplicar()` retorna o produto entre `x` e `y`.
+\code{multiplicar()} retorna o produto entre \code{x} e \code{y}.
 }
 \examples{
 # Multiplica 5 * 3 = 15

@@ -12,10 +12,10 @@ somar(x, y)
 \item{y}{Um numero}
 }
 \value{
-A soma de `x` e `y`
+A soma de \code{x} e \code{y}
 }
 \description{
-`somar()` retorna a soma de `x` e `y`.
+\code{somar()} retorna a soma de \code{x} e \code{y}.
 }
 \examples{
 # Soma 1+1 = 2

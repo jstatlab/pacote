@@ -12,10 +12,10 @@ subtrair(x, y)
 \item{y}{Um numero}
 }
 \value{
-A subtracao entre `x` e `y`
+A subtracao entre \code{x}  e \code{y}
 }
 \description{
-`subtrair()` retorna a subtracao entre `x` e `y`.
+\code{subtrair()} retorna a subtracao entre \code{x} e \code{y}.
 }
 \examples{
 # Subtrair 1-1 = 0

@@ -1,10 +1,10 @@
 #' Soma Dois Numeros
 #'
-#' `somar()` retorna a soma de `x` e `y`.
+#' \code{somar()} retorna a soma de \code{x} e \code{y}.
 #'
 #' @param x Um numero
 #' @param y Um numero
-#' @return A soma de `x` e `y`
+#' @return A soma de \code{x} e \code{y}
 #' @examples
 #' # Soma 1+1 = 2
 #' somar(1, 1)

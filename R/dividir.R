@@ -1,11 +1,11 @@
 #' @title Divide Dois Numeros
 #'
 #' @description
-#' `dividir()` retorna a divisão entre `x` e `y`.
+#' \code{dividir()} retorna a divisão entre \code{x} e \code{y}.
 #'
 #' @param x Um numero
 #' @param y Um numero
-#' @return A divisao de `x` e `y`
+#' @return A divisao de \code{x} e \code{y}
 #' @examples
 #' # Divide 50/2 = 25
 #' dividir(50, 2)

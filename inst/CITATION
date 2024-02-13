@@ -1,0 +1,11 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "Título",
+  author   = "Autor",
+  journal  = "Journal",
+  year     = "2024",
+  volume   = "1",
+  number   = "1",
+  pages    = "87-95",
+  doi      = "10.0000/1000-0000v3i000000"
+)
