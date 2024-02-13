@@ -1,0 +1,42 @@
+---
+title: "Construíndo pacotes R"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Construíndo pacotes R}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  collapse = TRUE,
+  comment = "#>"
+  
+)
+```
+
+```{r setup}
+library(pacote)
+```
+
+A função `somar(x, y)` retorna a soma de dois números `x` e `y`. Por exemplo:
+
+```{r somar}
+somar(15, 15)
+```
+
+O pacote também inclui as funções `subtrair(x, y)`, `multiplicar(x, y)` e `dividir(x, y)`, como mostram os respectivos exemplos a seguir:
+
+```{r subtrair}
+subtrair(30, 14)
+```
+
+```{r multiplicar}
+multiplicar(0, 100)
+```
+
+```{r}
+dividir(100, 3)
+```
+
