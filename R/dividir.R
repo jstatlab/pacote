@@ -1,4 +1,4 @@
-#' @title Divide Dois Numeros
+#' Divide Dois Numeros
 #'
 #' @description
 #' \code{dividir()} retorna a divisão entre \code{x} e \code{y}.
