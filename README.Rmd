@@ -32,7 +32,7 @@ knitr::opts_chunk$set(
 [![ORCiD:0000-0001-7414-1154](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-A6CE39?logo=ORCID&colorIcon.svg)](https://orcid.org/0000-0001-7414-1154)
 <!-- badges: end -->
 
-O objetivo do pacote é construir um pacote básico.
+O objetivo do pacote é construir um pacote básico na linguagem R.
 
 ## Instalação
 
@@ -42,7 +42,6 @@ Você pode instalar a versão em desenvolvimento do pacote a partir de [GitHub](
 # install.packages("devtools")
 devtools::install_github("jstatlab/pacote")
 ```
-
 ## Exemplo
 
 Este é um exemplo básico que mostra as quatro operações básicas:

@@ -29,7 +29,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![ORCiD:0000-0001-7414-1154](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-A6CE39?logo=ORCID&colorIcon.svg)](https://orcid.org/0000-0001-7414-1154)
 <!-- badges: end -->
 
-O objetivo do pacote é construir um pacote básico.
+O objetivo do pacote é construir um pacote básico na linguagem R.
 
 ## Instalação
 

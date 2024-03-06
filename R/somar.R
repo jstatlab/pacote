@@ -10,5 +10,5 @@
 #' somar(1, 1)
 #' @export
 somar <- function(x, y) {
-  x + y
+  return(x + y)
 }
