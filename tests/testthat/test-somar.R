@@ -18,3 +18,10 @@ test_that("somar(99, 0) < 100", {
     100
   )
 })
+
+test_that("somar(30, 20) > 40 works", {
+  expect_gt(
+    somar(30, 20),
+    40
+  )
+})
